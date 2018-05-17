@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ContactView.iml" filepath="$PROJECT_DIR$/ContactView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ContactView.iml" filepath="$PROJECT_DIR$/.idea/ContactView.iml" />
+      <module fileurl="file://C:\AndroidStudioProjects\ContactView\ContactView.iml" filepath="C:\AndroidStudioProjects\ContactView\ContactView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\AndroidStudioProjects\ContactView\app\app.iml" filepath="C:\AndroidStudioProjects\ContactView\app\app.iml" />
     </modules>
   </component>
 </project>
